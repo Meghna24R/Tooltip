@@ -1,0 +1,29 @@
+.heading {
+  font-size: 70px;
+}
+
+/* styling of tooltip container */
+.tooltip-container {
+  display: flex;
+  justify-content: space-around;
+  width: 80%;
+}
+
+.tooltip-element {
+  background-color: #e2ed4a;
+  width: 30%;
+  border-radius: 20px;
+  padding: 20px
+}  
+
+/* styling of the button element which is the tooltip trigger */
+.tooltip-trigger {
+  margin-top: 40px;
+  padding: 10px;
+  font-size: 20px;
+  font-weight: bold;
+  background-color: #e5ee67;
+  color: black;
+  border: black solid 1px;
+  border-radius: 15px;
+}

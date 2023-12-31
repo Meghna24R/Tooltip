@@ -1,0 +1,41 @@
+.Custom-tooltip {
+  position: relative;
+}
+
+/* styling of tooltip */
+.tooltip {
+  position: absolute;
+  background-color: black;
+  color: #b7b7b7;
+  padding: 5px;
+  border-radius: 5px;
+  opacity: 0;
+  transition: opacity 1s;
+  width: max-content;
+}
+
+/* styling for tooltip to appear when the button is hovered */
+.tooltip-trigger:hover + .tooltip {
+  opacity: 1;
+}
+
+/* styling of the position of tooltip */
+.tooltip-right {
+  top: 135px;
+  left: 70%;
+}
+  
+.tooltip-left {
+  top: 135px;
+  right: 70%;
+}
+  
+.tooltip-top {
+  bottom: 40%;
+  left: 100px;
+}
+  
+.tooltip-bottom {
+  top: 95%;
+  left: 100px;
+}
