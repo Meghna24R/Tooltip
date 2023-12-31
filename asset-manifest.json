@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tooltip/static/css/main.ab4f0c1a.css",
+    "main.js": "/Tooltip/static/js/main.2a41cd8f.js",
+    "index.html": "/Tooltip/index.html",
+    "main.ab4f0c1a.css.map": "/Tooltip/static/css/main.ab4f0c1a.css.map",
+    "main.2a41cd8f.js.map": "/Tooltip/static/js/main.2a41cd8f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab4f0c1a.css",
+    "static/js/main.2a41cd8f.js"
+  ]
+}
