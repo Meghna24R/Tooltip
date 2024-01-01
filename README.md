@@ -27,4 +27,4 @@ A simple tooltip component that appears when hovered over a button using react a
 
 ## Links
 1. [Code link](https://github.com/Meghna24R/Tooltip)
-2. [Hosted link](https://meghna24r.github.io/Todo-List-App/)
+2. [Hosted link](https://meghna24r.github.io/Tooltip/)
